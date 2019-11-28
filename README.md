@@ -1,4 +1,4 @@
-# Handee
+#C Program to find addition of two numbrers
 #include<stdio.h>
 #include<conio.h>
 void main()
